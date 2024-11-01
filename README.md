@@ -1,4 +1,4 @@
-<a href="https://demo.useliftoff.com">
+<a href="interviewsimulator.vercel.app">
   <img alt="Liftoff – AI-Powered Mock Interviews" src="https://demo.useliftoff.com/opengraph-image">
   <h1 align="center">Liftoff Interviews</h1>
 </a>
@@ -28,11 +28,7 @@
 
 Liftoff is an interview preparation tool that provides AI feedback on your mock interviews.
 
-## One-click Deploy
 
-You can deploy this template to Vercel with the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/tameyer41/clone?demo-title=Liftoff%20%E2%80%93%C2%A0AI%20Mock%20Interview%20Simulator&demo-description=Liftoff%20is%20an%20interview%20preparation%20tool%20that%20provides%20AI%20feedback%20on%20your%20mock%20interviews%2C%20built%20with%20OpenAI%20Whisper%20and%20GPT.&demo-url=https%3A%2F%2Fdemo.useliftoff.com%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5TbjLXmeKdo2rURpnjIEqn%2Fc7c8fc350183e8cd3c819d172c0005ac%2F68747470733a2f2f696b2e696d6167656b69742e696f2f396b6d3732617371752f436c65616e53686f745f323032332d30352d33315f61745f31322e34332e35&project-name=Liftoff%20%E2%80%93%C2%A0AI%20Mock%20Interview%20Simulator&repository-name=liftoff&repository-url=https%3A%2F%2Fgithub.com%2FTameyer41%2Fliftoff&from=templates&skippable-integrations=1&env=OPENAI_API_KEY&envDescription=Get%20your%20OpenAI%20API%20key%20here%3A&envLink=https%3A%2F%2Fplatform.openai.com%2Faccount%2Fapi-keys)
 
 You can also clone & create this repo locally with the following command:
 
@@ -82,4 +78,4 @@ We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, 
 
 ## Author
 
-- Tyler Meyer ([@tmeyer_me](https://twitter.com/tmeyer_me))
+- Abhishek Saini ([@Akyllus_](https://x.com/Akyllus_))
